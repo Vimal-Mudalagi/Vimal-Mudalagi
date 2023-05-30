@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vimal Mudalagi
-- 
+- 👩‍🎓 I am a Computer Science student
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on some projects to learn more!
