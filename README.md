@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently learning **DSA and Web Dev**
 
-- 👨‍💻 All of my projects are available at [https://vimalmudalagi.vercel.app/](https://vimalmudalagi.vercel.app/)
-
 - 📫 How to reach me **vimalmudalagi123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
