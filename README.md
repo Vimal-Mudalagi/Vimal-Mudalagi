@@ -6,6 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimal-mudalagi" alt="vimal-mudalagi" /></a> </p>
 
+<h2>🌟 Hacktoberfest 2024 Contributor | Open Source Enthusiast</h2>
+
+[![An image of @vimalmudalagi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vimalmudalagi)](https://holopin.io/@vimalmudalagi)
+
 - 🔭 I’m currently learning **DSA and Web Dev**
 
 - 📫 How to reach me **vimalmudalagi123@gmail.com**
